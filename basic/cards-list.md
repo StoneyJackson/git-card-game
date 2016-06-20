@@ -1,0 +1,23 @@
+- Action cards
+  - 16x Commit
+  - 11x Push
+  - 5x Pull
+  - 14x Change
+  - 2x Wild
+  - 1x Clif Wins
+  - 1x Hire Intern
+  - 1x Caffeine - Play up to 2 Change cards this turn.
+  - 1x Drunk - Play any number of Change cards this turn. Draw one Risk per Change played.
+- Issue cards
+  - 2x 1
+  - 4x 2
+  - 2x 3
+  - 1x 4
+- Risk cards
+  - 5x Got Lucky, No Error
+  - 1x Speling Eror, (Change required)
+  - 2x Error, (Change required)
+  - Next player goes on vacay -> Reverse play direction
+  - Server down, Lose all uncommitted changes
+  - R[EG]*X E[RO]*R (Change required)
+  - Graphi\nc Design Probl\nem
