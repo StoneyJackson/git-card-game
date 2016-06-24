@@ -24,7 +24,7 @@ To play this variant, you need only the following cards.
 
 ## Play
 
-Each turn a player can play one change card and as many non-change action cards as they want. To end their turn, they replenish their hand to 5 cards by drawing more action cads.
+Each turn a player can play one change card and as many non-change action cards as they want. To end their turn, they may discard as many cards as they like, and then replenish their hand to 5 cards by drawing more action cads.
 
 The goal is to complete issues. Each issue has a size. That's the number of change cards that must be played on the issue before you can push it and complete that issue.
 
