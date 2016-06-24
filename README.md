@@ -8,7 +8,7 @@ Authors:
 - Darci Burdge
 - Stoney Jackson
 - Clif Kussmal
-- Gina Lickens
+- Gina Likins
 
 Copyright 2016 SOME RIGHTS RESERVED
 
